@@ -1,0 +1,17 @@
+{
+"name": "node-app",
+"version": "1.0.0",
+"description": "The code repository for the Node booklet.",
+"main": "server.js",
+"repository": {
+"type": "git",
+"url": "https://github.com/scotch-io/node-booklet-code"
+},
+"dependencies": {
+"express": "latest",
+"mongoose": "latest"
+},
+"author": "Chris Sevilleja",
+"license": "MIT",
+"homepage": "https://scotch.io"
+}
